@@ -1,0 +1,33 @@
+{
+  "name": "sensor-receiver",
+  "version": "0.0.1",
+  "description": "A simple NodeJS program to watch for incoming IoT sensors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jheyer159/sensor-receiver.git"
+  },
+  "keywords": [
+    "http",
+    "sensor",
+    "dht",
+    "temp",
+    "humidity",
+    "iot",
+    "smart",
+    "ph",
+    "ec"
+  ],
+  "author": "rug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jheyer159/sensor-receiver/issues"
+  },
+  "homepage": "https://github.com/jheyer159/sensor-receiver#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
