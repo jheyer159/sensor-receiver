@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const bodyParser = require("body-parser")
-const dataEmitter = require("index.js")
+const dataEmitter = require("./index.js")
 
 var jsonParser = bodyParser.json({limit: '5mb'})
 
