@@ -2,4 +2,4 @@
 
 npm start: Express server will run on SENSOR_PORT
 
-npm test: jasmine will run tests
+npm test: mocha will run tests
